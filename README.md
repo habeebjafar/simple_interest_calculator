@@ -1,6 +1,7 @@
 # simple_interest_calculator
+
+#A new Flutter application.
 In this very simple application, we treated how to calculate simple interest when the principal, rate and time is given. This simple app was actually used to demonstrate the use of stateful widget in flutter
-A new Flutter application.
 
 ## Getting Started
 
